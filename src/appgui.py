@@ -1,3 +1,5 @@
+#making simple layout for the GUI - needs reviewing for later
+
 import PySimpleGUI as sg
 
 # Define the window's contents
