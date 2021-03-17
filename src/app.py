@@ -41,3 +41,4 @@ print(coordinates)
 # for index, item in enumerate(items):
 #     if not (item % 2):
 #         items[index] = None
+
